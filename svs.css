@@ -1,0 +1,347 @@
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    text-transform: capitalize;
+    color: white;
+}
+
+
+
+.f4{
+    color: gray;
+    margin-left: 2px;
+
+}
+
+.footer h5:hover{
+    color: rgb(0, 255, 191);
+}
+
+.f1{
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+
+
+
+
+.m1{
+    background-color: rgb(68 4 94 / 92%);
+    background-image: url(img/bg-shorten-desktop.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 80%;
+    height: 114px;
+    text-align: center;
+    margin-left: 123px;
+    margin-top: -204px;
+
+}
+
+.mfo{
+    background-color: rgb(68 4 94 / 92%);
+    background-image: url(img/bg-boost-desktop.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 223px;
+    margin-top: -20px;
+    text-align: center;
+}
+
+.mfo h1{
+    padding-top: 37px;
+    color: white;
+}
+
+.mfo button{
+    
+    text-transform: capitalize;
+Background-color: rgb(0, 255, 191);
+width: 10%;
+height: 48px;
+border: 0px white;
+border-radius: 25px 23px;
+color: white;
+margin-top: -21px;
+
+}
+
+
+
+.gin{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 154px;
+    margin-top: 75px;
+
+}
+.m2{
+    background-color: whitesmoke ;
+    width: 100%;
+    height: 500px;
+
+}
+
+.mm1{
+    text-align: center;
+    margin-top: 48px;
+}
+
+.ms1{
+    background-color: white;
+    justify-content: space-between;
+    text-align: center;
+    
+    width: 75%;
+    height: 201px;
+
+}
+
+.ms1 h1{
+    padding-top: 21px;
+
+}
+
+.co2{
+    height: 7px;
+    width: 134px;
+    background-color: rgb(0, 255, 191);
+    margin-top: 135px;
+    margin-left: -96px;
+
+}
+
+.mmmd1{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    margin-top: 49px;
+    margin-left: 171px;
+}
+
+.info{
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    text-align: center;
+    
+}
+
+.van{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    color: black;
+    background-color: white;
+    width: 100%;
+    height: 150px;
+   
+}
+
+.hj2 a{
+    color: gray;
+    text-decoration: none;
+    margin-left: 48px;
+
+}
+
+.hj2 a:hover{
+    color: black;
+}
+
+
+.hj2{
+   margin-left: 48px;
+    margin-top: 33px;
+}
+
+.hj a{
+    color: black;
+    text-decoration: none;
+    margin-left: 42px;
+
+
+}
+
+
+
+.van1{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    margin-left: 46px;
+
+
+}
+
+.van2 a{
+    color: black;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.van2{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    margin-top: 34px;
+}
+
+.vj{
+    margin-top: 1px;
+    margin-left: 20px;
+
+
+}
+
+.vj2{
+    margin-top: 1px;
+    margin-left: 354px;
+
+}
+
+.vj2  button{
+    margin-left: -291px;
+    text-transform: capitalize;
+    Background-color: rgb(0 251 255);
+
+    width: 100px;
+    height: 48px;
+    border: 0px white;
+    border-radius: 25px 23px;
+    color: white;
+    margin-top: -8px;
+}
+.vj2 button:hover{
+    color: white;
+    box-shadow: 1px;
+
+}
+.info1{
+    margin-left: 53px;
+    margin-top: 69px;    
+}
+
+.info1 button{
+    text-transform: capitalize;
+    Background-color: rgb(0, 255, 191) ;
+    width: 35%;
+    height: 48px;
+    border: 0px white;
+    border-radius: 25px 23px;
+    color: white;
+
+}
+
+
+button:hover{
+    background-color: aqua;
+    color: white;
+    box-shadow: 1px 1px blue;
+
+}
+
+input{
+  
+    width: 346px;
+    height: 37px;
+    margin-top: 32px;
+
+}
+
+.m1 button{    
+    text-transform: capitalize;
+    Background-color: rgb(0, 255, 191);
+    width: 13%;
+    height: 45px;
+    border: 0px white;
+    color: white;
+}
+
+.si22{
+    background-color: black;
+    width: 16%;
+    height: 45px;
+    border-radius: 25px 23px;
+    margin-top: -28px;
+    margin-left: 10px;
+
+}
+
+
+.error__msg{
+    color: red;
+    max-width: 300px;
+    transform: translateX(50%);
+    margin: auto;
+    z-index: 6;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    visibility: hidden;
+
+    position: relative;
+    top: 6px;
+    left: 28%;
+    
+}
+
+.error__msg #error{
+    color: red;
+    padding: 10px;
+}
+
+.error__msg.show{
+    visibility: visible;
+    transform: translateX(-150%);
+}
+
+
+.link{
+    margin-top: 23px;
+    background-color: white;
+}
+
+.long__link{
+    position: relative;
+    left: -301px;
+    font-size: 22px;
+}
+
+.short__link{
+    color: rgb(0, 255, 191) ;
+    position: relative;
+    left: 286px;
+}
+
+.copy__btn{
+    background-color: rgb(33, 36, 61);
+    color: white;
+    position: relative;
+    left: 293px;
+}
+
+
+.f3{
+    display: flex;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    text-transform: capitalize;
+    color: white;
+    
+    margin-top: 20px;
+    font-size: 25px;
+
+
+}
